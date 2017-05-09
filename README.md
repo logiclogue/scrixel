@@ -14,7 +14,9 @@ programming, at the time, the Scrixel engine is buried within their source code.
 ## Components
 
 [Scrixel Collision Engine](https://github.com/logiclogue/scrixel-collision)
+
 [Scrixel Game Loop](https://github.com/logiclogue/scrixel-gameloop)
+
 [Scrixel Sprite Sheet Parser](https://github.com/logiclogue/scrixel-spritesheet)
 
 ## Author
